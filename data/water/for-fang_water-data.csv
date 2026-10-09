@@ -1,0 +1,504 @@
+state,mobility_type,date,MM-DD,t,ridership,t2,t4
+Japan,water,3/11/11,11-Mar,1,0,1,25
+Japan,water,3/12/11,12-Mar,2,12,1,25
+Japan,water,3/13/11,13-Mar,3,22,1,25
+Japan,water,3/14/11,14-Mar,4,27.7,1,25
+Japan,water,3/15/11,15-Mar,5,48.7,1,25
+Japan,water,3/16/11,16-Mar,6,78.2,1,25
+Japan,water,3/17/11,17-Mar,7,95.7,1,25
+Japan,water,3/18/11,18-Mar,8,101.9,1,25
+Japan,water,3/19/11,19-Mar,9,111.6,1,25
+Japan,water,3/20/11,20-Mar,10,127.5,1,25
+Japan,water,3/21/11,21-Mar,11,133.5,1,25
+Japan,water,3/22/11,22-Mar,12,139,1,25
+Japan,water,3/23/11,23-Mar,13,145,1,25
+Japan,water,3/24/11,24-Mar,14,150.4,1,25
+Japan,water,3/25/11,25-Mar,15,161.2,1,25
+Japan,water,3/26/11,26-Mar,16,173.9,1,25
+Japan,water,3/27/11,27-Mar,17,183.2,1,25
+Japan,water,3/28/11,28-Mar,18,185.1,1,25
+Japan,water,3/29/11,29-Mar,19,188.2,1,25
+Japan,water,3/30/11,30-Mar,20,190.7,1,25
+Japan,water,3/31/11,31-Mar,21,191.9,1,25
+Japan,water,4/1/11,1-Apr,22,194.6,1,25
+Japan,water,4/2/11,2-Apr,23,196.8,1,25
+Japan,water,4/3/11,3-Apr,24,197.1,1,25
+Japan,water,4/4/11,4-Apr,25,197.4,1,25
+Japan,water,4/5/11,5-Apr,26,198.3,1,25
+Japan,water,4/6/11,6-Apr,27,201.1,1,25
+Japan,water,4/7/11,7-Apr,28,195.6,1,25
+Japan,water,4/8/11,8-Apr,29,198.3,1,25
+Japan,water,4/9/11,9-Apr,30,200.5,1,25
+Japan,water,4/10/11,10-Apr,31,195.4,1,25
+Japan,water,4/11/11,11-Apr,32,196.6,1,25
+Japan,water,4/12/11,12-Apr,33,203,1,25
+Japan,water,4/13/11,13-Apr,34,205.3,1,25
+Japan,water,4/14/11,14-Apr,35,206.8,1,25
+Japan,water,4/15/11,15-Apr,36,209.8,1,25
+Japan,water,4/16/11,16-Apr,37,214.1,1,25
+Japan,water,4/17/11,17-Apr,38,218.8,1,25
+Japan,water,4/18/11,18-Apr,39,220.3,1,25
+Japan,water,4/19/11,19-Apr,40,220.4,1,25
+Japan,water,4/20/11,20-Apr,41,220.5,1,25
+Japan,water,4/21/11,21-Apr,42,220.6,1,25
+Japan,water,4/22/11,22-Apr,43,220.7,1,25
+Japan,water,4/23/11,23-Apr,44,220.7,1,25
+Japan,water,4/24/11,24-Apr,45,220.8,1,25
+Japan,water,4/25/11,25-Apr,46,220.9,1,25
+Japan,water,4/26/11,26-Apr,47,221,1,25
+Japan,water,4/27/11,27-Apr,48,221.1,1,25
+Japan,water,4/28/11,28-Apr,49,221.1,1,25
+Japan,water,4/29/11,29-Apr,50,221.2,1,25
+Japan,Bullet train,3/11/11,11-Mar,1,0,4,25
+Japan,Bullet train,3/12/11,12-Mar,2,0,4,25
+Japan,Bullet train,3/13/11,13-Mar,3,0,4,25
+Japan,Bullet train,3/14/11,14-Mar,4,0,4,25
+Japan,Bullet train,3/15/11,15-Mar,5,17,4,25
+Japan,Bullet train,3/16/11,16-Mar,6,17,4,25
+Japan,Bullet train,3/17/11,17-Mar,7,17,4,25
+Japan,Bullet train,3/18/11,18-Mar,8,17,4,25
+Japan,Bullet train,3/19/11,19-Mar,9,31,4,25
+Japan,Bullet train,3/20/11,20-Mar,10,31,4,25
+Japan,Bullet train,3/21/11,21-Mar,11,31,4,25
+Japan,Bullet train,3/22/11,22-Mar,12,52,4,25
+Japan,Bullet train,3/23/11,23-Mar,13,58,4,25
+Japan,Bullet train,3/24/11,24-Mar,14,58,4,25
+Japan,Bullet train,3/25/11,25-Mar,15,58,4,25
+Japan,Bullet train,3/26/11,26-Mar,16,58,4,25
+Japan,Bullet train,3/27/11,27-Mar,17,58,4,25
+Japan,Bullet train,3/28/11,28-Mar,18,58,4,25
+Japan,Bullet train,3/29/11,29-Mar,19,58,4,25
+Japan,Bullet train,3/30/11,30-Mar,20,58,4,25
+Japan,Bullet train,3/31/11,31-Mar,21,62,4,25
+Japan,Bullet train,4/1/11,1-Apr,22,62,4,25
+Japan,Bullet train,4/2/11,2-Apr,23,62,4,25
+Japan,Bullet train,4/3/11,3-Apr,24,62,4,25
+Japan,Bullet train,4/4/11,4-Apr,25,62,4,25
+Japan,Bullet train,4/5/11,5-Apr,26,62,4,25
+Japan,Bullet train,4/6/11,6-Apr,27,62,4,25
+Japan,Bullet train,4/7/11,7-Apr,28,62,4,25
+Japan,Bullet train,4/8/11,8-Apr,29,16,4,25
+Japan,Bullet train,4/9/11,9-Apr,30,25,4,25
+Japan,Bullet train,4/10/11,10-Apr,31,35,4,25
+Japan,Bullet train,4/11/11,11-Apr,32,44,4,25
+Japan,Bullet train,4/12/11,12-Apr,33,55,4,25
+Japan,Bullet train,4/13/11,13-Apr,34,74,4,25
+Japan,Bullet train,4/14/11,14-Apr,35,74,4,25
+Japan,Bullet train,4/15/11,15-Apr,36,74,4,25
+Japan,Bullet train,4/16/11,16-Apr,37,74,4,25
+Japan,Bullet train,4/17/11,17-Apr,38,74,4,25
+Japan,Bullet train,4/18/11,18-Apr,39,74,4,25
+Japan,Bullet train,4/19/11,19-Apr,40,74,4,25
+Japan,Bullet train,4/20/11,20-Apr,41,74,4,25
+Japan,Bullet train,4/21/11,21-Apr,42,74,4,25
+Japan,Bullet train,4/22/11,22-Apr,43,74,4,25
+Japan,Bullet train,4/23/11,23-Apr,44,83,4,25
+Japan,Bullet train,4/24/11,24-Apr,45,83,4,25
+Japan,Bullet train,4/25/11,25-Apr,46,91,4,25
+Japan,Bullet train,4/26/11,26-Apr,47,91,4,25
+Japan,Bullet train,4/27/11,27-Apr,48,91,4,25
+Japan,Bullet train,4/28/11,28-Apr,49,91,4,25
+Japan,Bullet train,4/29/11,29-Apr,50,100,4,25
+Japan,Bullet train,4/30/11,30-Apr,51,100,4,25
+Japan,Bullet train,5/1/11,1-May,52,100,4,25
+Japan,Bullet train,5/2/11,2-May,53,100,4,25
+Japan,Bullet train,5/3/11,3-May,54,100,4,25
+Japan,Bullet train,5/4/11,4-May,55,100,4,25
+Japan,Bullet train,5/5/11,5-May,56,100,4,25
+Japan,Bullet train,5/6/11,6-May,57,100,4,25
+Japan,Bullet train,5/7/11,7-May,58,100,4,25
+Japan,Bullet train,5/8/11,8-May,59,100,4,25
+Japan,Bullet train,5/9/11,9-May,60,100,4,25
+Japan,Bullet train,5/10/11,10-May,61,100,4,25
+Japan,Bullet train,5/11/11,11-May,62,100,4,25
+Japan,Bullet train,5/12/11,12-May,63,100,4,25
+Japan,Bullet train,5/13/11,13-May,64,100,4,25
+Japan,Bullet train,5/14/11,14-May,65,100,4,25
+Japan,Bullet train,5/15/11,15-May,66,100,4,25
+Japan,Bullet train,5/16/11,16-May,67,100,4,25
+Japan,Bullet train,5/17/11,17-May,68,100,4,25
+Japan,Bullet train,5/18/11,18-May,69,100,4,25
+Japan,Bullet train,5/19/11,19-May,70,100,4,25
+Japan,Bullet train,5/20/11,20-May,71,100,4,25
+Japan,Bullet train,5/21/11,21-May,72,100,4,25
+Japan,Bullet train,5/22/11,22-May,73,100,4,25
+Japan,Bullet train,5/23/11,23-May,74,100,4,25
+Japan,Bullet train,5/24/11,24-May,75,100,4,25
+Japan,Bullet train,5/25/11,25-May,76,100,4,25
+Japan,Bullet train,5/26/11,26-May,77,100,4,25
+Japan,Bullet train,5/27/11,27-May,78,100,4,25
+Japan,Bullet train,5/28/11,28-May,79,100,4,25
+Japan,Bullet train,5/29/11,29-May,80,100,4,25
+Japan,Bullet train,5/30/11,30-May,81,100,4,25
+Japan,Bullet train,5/31/11,31-May,82,100,4,25
+Japan,Bullet train,6/1/11,1-Jun,83,100,4,25
+Japan,Bullet train,6/2/11,2-Jun,84,100,4,25
+Japan,Bullet train,6/3/11,3-Jun,85,100,4,25
+Japan,Bullet train,6/4/11,4-Jun,86,100,4,25
+Japan,Bullet train,6/5/11,5-Jun,87,100,4,25
+Japan,Bullet train,6/6/11,6-Jun,88,100,4,25
+Japan,Bullet train,6/7/11,7-Jun,89,100,4,25
+Japan,Bullet train,6/8/11,8-Jun,90,100,4,25
+Japan,Bullet train,6/9/11,9-Jun,91,100,4,25
+Japan,Bullet train,6/10/11,10-Jun,92,100,4,25
+Japan,Bullet train,6/11/11,11-Jun,93,100,4,25
+Japan,Bullet train,6/12/11,12-Jun,94,100,4,25
+Japan,Bullet train,6/13/11,13-Jun,95,100,4,25
+Japan,Bullet train,6/14/11,14-Jun,96,100,4,25
+Japan,Bullet train,6/15/11,15-Jun,97,100,4,25
+Japan,Bullet train,6/16/11,16-Jun,98,100,4,25
+Japan,Bullet train,6/17/11,17-Jun,99,100,4,25
+Japan,Bullet train,6/18/11,18-Jun,100,100,4,25
+Japan,Bullet train,6/19/11,19-Jun,101,100,4,25
+Japan,Bullet train,6/20/11,20-Jun,102,100,4,25
+Japan,Bullet train,6/21/11,21-Jun,103,100,4,25
+Japan,Bullet train,6/22/11,22-Jun,104,100,4,25
+Japan,Bullet train,6/23/11,23-Jun,105,100,4,25
+Japan,Bullet train,6/24/11,24-Jun,106,100,4,25
+Japan,Bullet train,6/25/11,25-Jun,107,100,4,25
+Japan,Bullet train,6/26/11,26-Jun,108,100,4,25
+Japan,Bullet train,6/27/11,27-Jun,109,100,4,25
+Japan,Bullet train,6/28/11,28-Jun,110,100,4,25
+Japan,Bullet train,6/29/11,29-Jun,111,100,4,25
+Japan,Bullet train,6/30/11,30-Jun,112,100,4,25
+Japan,Bullet train,7/1/11,1-Jul,113,100,4,25
+Japan,Bullet train,7/2/11,2-Jul,114,100,4,25
+Japan,Bullet train,7/3/11,3-Jul,115,100,4,25
+Japan,Bullet train,7/4/11,4-Jul,116,100,4,25
+Japan,Bullet train,7/5/11,5-Jul,117,100,4,25
+Japan,Bullet train,7/6/11,6-Jul,118,100,4,25
+Japan,Bullet train,7/7/11,7-Jul,119,100,4,25
+Japan,Bullet train,7/8/11,8-Jul,120,100,4,25
+Japan,Bullet train,7/9/11,9-Jul,121,100,4,25
+Japan,Bullet train,7/10/11,10-Jul,122,100,4,25
+Japan,Bullet train,7/11/11,11-Jul,123,100,4,25
+Japan,Bullet train,7/12/11,12-Jul,124,100,4,25
+Japan,Bullet train,7/13/11,13-Jul,125,100,4,25
+Japan,Bullet train,7/14/11,14-Jul,126,100,4,25
+Japan,Bullet train,7/15/11,15-Jul,127,100,4,25
+Japan,Bullet train,7/16/11,16-Jul,128,100,4,25
+Japan,Bullet train,7/17/11,17-Jul,129,100,4,25
+Japan,Bullet train,7/18/11,18-Jul,130,100,4,25
+Japan,Bullet train,7/19/11,19-Jul,131,100,4,25
+Japan,Bullet train,7/20/11,20-Jul,132,100,4,25
+Japan,Bullet train,7/21/11,21-Jul,133,100,4,25
+Japan,Bullet train,7/22/11,22-Jul,134,100,4,25
+Japan,Bullet train,7/23/11,23-Jul,135,100,4,25
+Japan,Bullet train,7/24/11,24-Jul,136,100,4,25
+Japan,Bullet train,7/25/11,25-Jul,137,100,4,25
+Japan,Bullet train,7/26/11,26-Jul,138,100,4,25
+Japan,Bullet train,7/27/11,27-Jul,139,100,4,25
+Japan,Bullet train,7/28/11,28-Jul,140,100,4,25
+Japan,Bullet train,7/29/11,29-Jul,141,100,4,25
+Japan,Bullet train,7/30/11,30-Jul,142,100,4,25
+Japan,Bullet train,7/31/11,31-Jul,143,100,4,25
+Japan,Bullet train,8/1/11,1-Aug,144,100,4,25
+Japan,Bullet train,8/2/11,2-Aug,145,100,4,25
+Japan,Bullet train,8/3/11,3-Aug,146,100,4,25
+Japan,Bullet train,8/4/11,4-Aug,147,100,4,25
+Japan,Bullet train,8/5/11,5-Aug,148,100,4,25
+Japan,Bullet train,8/6/11,6-Aug,149,100,4,25
+Japan,Bullet train,8/7/11,7-Aug,150,100,4,25
+Japan,Bullet train,8/8/11,8-Aug,151,100,4,25
+Japan,Airport,3/11/11,11-Mar,1,77,1,34
+Japan,Airport,3/12/11,12-Mar,2,77,1,34
+Japan,Airport,3/13/11,13-Mar,3,77,1,34
+Japan,Airport,3/14/11,14-Mar,4,85,1,34
+Japan,Airport,3/15/11,15-Mar,5,85,1,34
+Japan,Airport,3/16/11,16-Mar,6,92,1,34
+Japan,Airport,3/17/11,17-Mar,7,92,1,34
+Japan,Airport,3/18/11,18-Mar,8,92,1,34
+Japan,Airport,3/19/11,19-Mar,9,92,1,34
+Japan,Airport,3/20/11,20-Mar,10,92,1,34
+Japan,Airport,3/21/11,21-Mar,11,92,1,34
+Japan,Airport,3/22/11,22-Mar,12,92,1,34
+Japan,Airport,3/23/11,23-Mar,13,92,1,34
+Japan,Airport,3/24/11,24-Mar,14,92,1,34
+Japan,Airport,3/25/11,25-Mar,15,92,1,34
+Japan,Airport,3/26/11,26-Mar,16,92,1,34
+Japan,Airport,3/27/11,27-Mar,17,92,1,34
+Japan,Airport,3/28/11,28-Mar,18,92,1,34
+Japan,Airport,3/29/11,29-Mar,19,92,1,34
+Japan,Airport,3/30/11,30-Mar,20,92,1,34
+Japan,Airport,3/31/11,31-Mar,21,92,1,34
+Japan,Airport,4/1/11,1-Apr,22,92,1,34
+Japan,Airport,4/2/11,2-Apr,23,92,1,34
+Japan,Airport,4/3/11,3-Apr,24,92,1,34
+Japan,Airport,4/4/11,4-Apr,25,92,1,34
+Japan,Airport,4/5/11,5-Apr,26,92,1,34
+Japan,Airport,4/6/11,6-Apr,27,92,1,34
+Japan,Airport,4/7/11,7-Apr,28,92,1,34
+Japan,Airport,4/8/11,8-Apr,29,92,1,34
+Japan,Airport,4/9/11,9-Apr,30,92,1,34
+Japan,Airport,4/10/11,10-Apr,31,92,1,34
+Japan,Airport,4/11/11,11-Apr,32,92,1,34
+Japan,Airport,4/12/11,12-Apr,33,92,1,34
+Japan,Airport,4/13/11,13-Apr,34,100,1,34
+Japan,Airport,4/14/11,14-Apr,35,100,1,34
+Japan,Airport,4/15/11,15-Apr,36,100,1,34
+Japan,Airport,4/16/11,16-Apr,37,100,1,34
+Japan,Airport,4/17/11,17-Apr,38,100,1,34
+Japan,Airport,4/18/11,18-Apr,39,100,1,34
+Japan,Airport,4/19/11,19-Apr,40,100,1,34
+Japan,Airport,4/20/11,20-Apr,41,100,1,34
+Japan,Airport,4/21/11,21-Apr,42,100,1,34
+Japan,Airport,4/22/11,22-Apr,43,100,1,34
+Japan,Airport,4/23/11,23-Apr,44,100,1,34
+Japan,Airport,4/24/11,24-Apr,45,100,1,34
+Japan,Airport,4/25/11,25-Apr,46,100,1,34
+Japan,Airport,4/26/11,26-Apr,47,100,1,34
+Japan,Airport,4/27/11,27-Apr,48,100,1,34
+Japan,Airport,4/28/11,28-Apr,49,100,1,34
+Japan,Airport,4/29/11,29-Apr,50,100,1,34
+Japan,Airport,4/30/11,30-Apr,51,100,1,34
+Japan,Airport,5/1/11,1-May,52,100,1,34
+Japan,Airport,5/2/11,2-May,53,100,1,34
+Japan,Airport,5/3/11,3-May,54,100,1,34
+Japan,Airport,5/4/11,4-May,55,100,1,34
+Japan,Airport,5/5/11,5-May,56,100,1,34
+Japan,Airport,5/6/11,6-May,57,100,1,34
+Japan,Airport,5/7/11,7-May,58,100,1,34
+Japan,Airport,5/8/11,8-May,59,100,1,34
+Japan,Airport,5/9/11,9-May,60,100,1,34
+Japan,Airport,5/10/11,10-May,61,100,1,34
+Japan,Airport,5/11/11,11-May,62,100,1,34
+Japan,Airport,5/12/11,12-May,63,100,1,34
+Japan,Airport,5/13/11,13-May,64,100,1,34
+Japan,Airport,5/14/11,14-May,65,100,1,34
+Japan,Airport,5/15/11,15-May,66,100,1,34
+Japan,Airport,5/16/11,16-May,67,100,1,34
+Japan,Airport,5/17/11,17-May,68,100,1,34
+Japan,Airport,5/18/11,18-May,69,100,1,34
+Japan,Airport,5/19/11,19-May,70,100,1,34
+Japan,Airport,5/20/11,20-May,71,100,1,34
+Japan,Airport,5/21/11,21-May,72,100,1,34
+Japan,Airport,5/22/11,22-May,73,100,1,34
+Japan,Airport,5/23/11,23-May,74,100,1,34
+Japan,Airport,5/24/11,24-May,75,100,1,34
+Japan,Airport,5/25/11,25-May,76,100,1,34
+Japan,Airport,5/26/11,26-May,77,100,1,34
+Japan,Airport,5/27/11,27-May,78,100,1,34
+Japan,Airport,5/28/11,28-May,79,100,1,34
+Japan,Airport,5/29/11,29-May,80,100,1,34
+Japan,Airport,5/30/11,30-May,81,100,1,34
+Japan,Airport,5/31/11,31-May,82,100,1,34
+Japan,Airport,6/1/11,1-Jun,83,100,1,34
+Japan,Airport,6/2/11,2-Jun,84,100,1,34
+Japan,Airport,6/3/11,3-Jun,85,100,1,34
+Japan,Airport,6/4/11,4-Jun,86,100,1,34
+Japan,Airport,6/5/11,5-Jun,87,100,1,34
+Japan,Airport,6/6/11,6-Jun,88,100,1,34
+Japan,Airport,6/7/11,7-Jun,89,100,1,34
+Japan,Airport,6/8/11,8-Jun,90,100,1,34
+Japan,Airport,6/9/11,9-Jun,91,100,1,34
+Japan,Airport,6/10/11,10-Jun,92,100,1,34
+Japan,Airport,6/11/11,11-Jun,93,100,1,34
+Japan,Airport,6/12/11,12-Jun,94,100,1,34
+Japan,Airport,6/13/11,13-Jun,95,100,1,34
+Japan,Airport,6/14/11,14-Jun,96,100,1,34
+Japan,Airport,6/15/11,15-Jun,97,100,1,34
+Japan,Airport,6/16/11,16-Jun,98,100,1,34
+Japan,Airport,6/17/11,17-Jun,99,100,1,34
+Japan,Airport,6/18/11,18-Jun,100,100,1,34
+Japan,Airport,6/19/11,19-Jun,101,100,1,34
+Japan,Airport,6/20/11,20-Jun,102,100,1,34
+Japan,Airport,6/21/11,21-Jun,103,100,1,34
+Japan,Airport,6/22/11,22-Jun,104,100,1,34
+Japan,Airport,6/23/11,23-Jun,105,100,1,34
+Japan,Airport,6/24/11,24-Jun,106,100,1,34
+Japan,Airport,6/25/11,25-Jun,107,100,1,34
+Japan,Airport,6/26/11,26-Jun,108,100,1,34
+Japan,Airport,6/27/11,27-Jun,109,100,1,34
+Japan,Airport,6/28/11,28-Jun,110,100,1,34
+Japan,Airport,6/29/11,29-Jun,111,100,1,34
+Japan,Airport,6/30/11,30-Jun,112,100,1,34
+Japan,Airport,7/1/11,1-Jul,113,100,1,34
+Japan,Airport,7/2/11,2-Jul,114,100,1,34
+Japan,Airport,7/3/11,3-Jul,115,100,1,34
+Japan,Airport,7/4/11,4-Jul,116,100,1,34
+Japan,Airport,7/5/11,5-Jul,117,100,1,34
+Japan,Airport,7/6/11,6-Jul,118,100,1,34
+Japan,Airport,7/7/11,7-Jul,119,100,1,34
+Japan,Airport,7/8/11,8-Jul,120,100,1,34
+Japan,Airport,7/9/11,9-Jul,121,100,1,34
+Japan,Airport,7/10/11,10-Jul,122,100,1,34
+Japan,Airport,7/11/11,11-Jul,123,100,1,34
+Japan,Airport,7/12/11,12-Jul,124,100,1,34
+Japan,Airport,7/13/11,13-Jul,125,100,1,34
+Japan,Airport,7/14/11,14-Jul,126,100,1,34
+Japan,Airport,7/15/11,15-Jul,127,100,1,34
+Japan,Airport,7/16/11,16-Jul,128,100,1,34
+Japan,Airport,7/17/11,17-Jul,129,100,1,34
+Japan,Airport,7/18/11,18-Jul,130,100,1,34
+Japan,Airport,7/19/11,19-Jul,131,100,1,34
+Japan,Airport,7/20/11,20-Jul,132,100,1,34
+Japan,Airport,7/21/11,21-Jul,133,100,1,34
+Japan,Airport,7/22/11,22-Jul,134,100,1,34
+Japan,Airport,7/23/11,23-Jul,135,100,1,34
+Japan,Airport,7/24/11,24-Jul,136,100,1,34
+Japan,Airport,7/25/11,25-Jul,137,100,1,34
+Japan,Airport,7/26/11,26-Jul,138,100,1,34
+Japan,Airport,7/27/11,27-Jul,139,100,1,34
+Japan,Airport,7/28/11,28-Jul,140,100,1,34
+Japan,Airport,7/29/11,29-Jul,141,100,1,34
+Japan,Airport,7/30/11,30-Jul,142,100,1,34
+Japan,Airport,7/31/11,31-Jul,143,100,1,34
+Japan,Airport,8/1/11,1-Aug,144,100,1,34
+Japan,Airport,8/2/11,2-Aug,145,100,1,34
+Japan,Airport,8/3/11,3-Aug,146,100,1,34
+Japan,Airport,8/4/11,4-Aug,147,100,1,34
+Japan,Airport,8/5/11,5-Aug,148,100,1,34
+Japan,Airport,8/6/11,6-Aug,149,100,1,34
+Japan,Airport,8/7/11,7-Aug,150,100,1,34
+Japan,Airport,8/8/11,8-Aug,151,100,1,34
+Japan,Expressway,3/11/11,11-Mar,1,0,15,40
+Japan,Expressway,3/12/11,12-Mar,2,0,15,40
+Japan,Expressway,3/13/11,13-Mar,3,9.6,15,40
+Japan,Expressway,3/14/11,14-Mar,4,9.6,15,40
+Japan,Expressway,3/15/11,15-Mar,5,9.6,15,40
+Japan,Expressway,3/16/11,16-Mar,6,18.09,15,40
+Japan,Expressway,3/17/11,17-Mar,7,18.09,15,40
+Japan,Expressway,3/18/11,18-Mar,8,18.09,15,40
+Japan,Expressway,3/19/11,19-Mar,9,18,15,40
+Japan,Expressway,3/20/11,20-Mar,10,28,15,40
+Japan,Expressway,3/21/11,21-Mar,11,38,15,40
+Japan,Expressway,3/22/11,22-Mar,12,66,15,40
+Japan,Expressway,3/23/11,23-Mar,13,66,15,40
+Japan,Expressway,3/24/11,24-Mar,14,99,15,40
+Japan,Expressway,3/25/11,25-Mar,15,99,15,40
+Japan,Expressway,3/26/11,26-Mar,16,99,15,40
+Japan,Expressway,3/27/11,27-Mar,17,99,15,40
+Japan,Expressway,3/28/11,28-Mar,18,99,15,40
+Japan,Expressway,3/29/11,29-Mar,19,99,15,40
+Japan,Expressway,3/30/11,30-Mar,20,99,15,40
+Japan,Expressway,3/31/11,31-Mar,21,99,15,40
+Japan,Expressway,4/1/11,1-Apr,22,100,15,40
+Japan,Expressway,4/2/11,2-Apr,23,100,15,40
+Japan,Expressway,4/3/11,3-Apr,24,100,15,40
+Japan,Expressway,4/4/11,4-Apr,25,100,15,40
+Japan,Expressway,4/5/11,5-Apr,26,100,15,40
+Japan,Expressway,4/6/11,6-Apr,27,100,15,40
+Japan,Expressway,4/7/11,7-Apr,28,100,15,40
+Japan,Expressway,4/8/11,8-Apr,29,91,15,40
+Japan,Expressway,4/9/11,9-Apr,30,98,15,40
+Japan,Expressway,4/10/11,10-Apr,31,100,15,40
+Japan,Expressway,4/11/11,11-Apr,32,100,15,40
+Japan,Expressway,4/12/11,12-Apr,33,97,15,40
+Japan,Expressway,4/13/11,13-Apr,34,99,15,40
+Japan,Expressway,4/14/11,14-Apr,35,99,15,40
+Japan,Expressway,4/15/11,15-Apr,36,100,15,40
+Japan,Expressway,4/16/11,16-Apr,37,100,15,40
+Japan,Expressway,4/17/11,17-Apr,38,100,15,40
+Japan,Expressway,4/18/11,18-Apr,39,100,15,40
+Japan,Expressway,4/19/11,19-Apr,40,100,15,40
+Japan,Expressway,4/20/11,20-Apr,41,100,15,40
+Japan,Expressway,4/21/11,21-Apr,42,100,15,40
+Japan,Expressway,4/22/11,22-Apr,43,100,15,40
+Japan,Expressway,4/23/11,23-Apr,44,99,15,40
+Japan,Expressway,4/24/11,24-Apr,45,99,15,40
+Japan,Expressway,4/25/11,25-Apr,46,99,15,40
+Japan,Expressway,4/26/11,26-Apr,47,99,15,40
+Japan,Expressway,4/27/11,27-Apr,48,99,15,40
+Japan,Expressway,4/28/11,28-Apr,49,99,15,40
+Japan,Expressway,4/29/11,29-Apr,50,100,15,40
+Japan,Expressway,4/30/11,30-Apr,51,100,15,40
+Japan,Expressway,5/1/11,1-May,52,100,15,40
+Japan,Expressway,5/2/11,2-May,53,100,15,40
+Japan,Expressway,5/3/11,3-May,54,100,15,40
+Japan,Expressway,5/4/11,4-May,55,100,15,40
+Japan,Expressway,5/5/11,5-May,56,100,15,40
+Japan,Expressway,5/6/11,6-May,57,100,15,40
+Japan,Expressway,5/7/11,7-May,58,100,15,40
+Japan,Expressway,5/8/11,8-May,59,100,15,40
+Japan,Expressway,5/9/11,9-May,60,100,15,40
+Japan,Expressway,5/10/11,10-May,61,100,15,40
+Japan,Expressway,5/11/11,11-May,62,100,15,40
+Japan,Expressway,5/12/11,12-May,63,100,15,40
+Japan,Expressway,5/13/11,13-May,64,100,15,40
+Japan,Expressway,5/14/11,14-May,65,100,15,40
+Japan,Expressway,5/15/11,15-May,66,100,15,40
+Japan,Expressway,5/16/11,16-May,67,100,15,40
+Japan,Expressway,5/17/11,17-May,68,100,15,40
+Japan,Expressway,5/18/11,18-May,69,100,15,40
+Japan,Expressway,5/19/11,19-May,70,100,15,40
+Japan,Expressway,5/20/11,20-May,71,100,15,40
+Japan,Expressway,5/21/11,21-May,72,100,15,40
+Japan,Expressway,5/22/11,22-May,73,100,15,40
+Japan,Expressway,5/23/11,23-May,74,100,15,40
+Japan,Expressway,5/24/11,24-May,75,100,15,40
+Japan,Expressway,5/25/11,25-May,76,100,15,40
+Japan,Expressway,5/26/11,26-May,77,100,15,40
+Japan,Expressway,5/27/11,27-May,78,100,15,40
+Japan,Expressway,5/28/11,28-May,79,100,15,40
+Japan,Expressway,5/29/11,29-May,80,100,15,40
+Japan,Expressway,5/30/11,30-May,81,100,15,40
+Japan,Expressway,5/31/11,31-May,82,100,15,40
+Japan,Expressway,6/1/11,1-Jun,83,100,15,40
+Japan,Expressway,6/2/11,2-Jun,84,100,15,40
+Japan,Expressway,6/3/11,3-Jun,85,100,15,40
+Japan,Expressway,6/4/11,4-Jun,86,100,15,40
+Japan,Expressway,6/5/11,5-Jun,87,100,15,40
+Japan,Expressway,6/6/11,6-Jun,88,100,15,40
+Japan,Expressway,6/7/11,7-Jun,89,100,15,40
+Japan,Expressway,6/8/11,8-Jun,90,100,15,40
+Japan,Expressway,6/9/11,9-Jun,91,100,15,40
+Japan,Expressway,6/10/11,10-Jun,92,100,15,40
+Japan,Expressway,6/11/11,11-Jun,93,100,15,40
+Japan,Expressway,6/12/11,12-Jun,94,100,15,40
+Japan,Expressway,6/13/11,13-Jun,95,100,15,40
+Japan,Expressway,6/14/11,14-Jun,96,100,15,40
+Japan,Expressway,6/15/11,15-Jun,97,100,15,40
+Japan,Expressway,6/16/11,16-Jun,98,100,15,40
+Japan,Expressway,6/17/11,17-Jun,99,100,15,40
+Japan,Expressway,6/18/11,18-Jun,100,100,15,40
+Japan,Expressway,6/19/11,19-Jun,101,100,15,40
+Japan,Expressway,6/20/11,20-Jun,102,100,15,40
+Japan,Expressway,6/21/11,21-Jun,103,100,15,40
+Japan,Expressway,6/22/11,22-Jun,104,100,15,40
+Japan,Expressway,6/23/11,23-Jun,105,100,15,40
+Japan,Expressway,6/24/11,24-Jun,106,100,15,40
+Japan,Expressway,6/25/11,25-Jun,107,100,15,40
+Japan,Expressway,6/26/11,26-Jun,108,100,15,40
+Japan,Expressway,6/27/11,27-Jun,109,100,15,40
+Japan,Expressway,6/28/11,28-Jun,110,100,15,40
+Japan,Expressway,6/29/11,29-Jun,111,100,15,40
+Japan,Expressway,6/30/11,30-Jun,112,100,15,40
+Japan,Expressway,7/1/11,1-Jul,113,100,15,40
+Japan,Expressway,7/2/11,2-Jul,114,100,15,40
+Japan,Expressway,7/3/11,3-Jul,115,100,15,40
+Japan,Expressway,7/4/11,4-Jul,116,100,15,40
+Japan,Expressway,7/5/11,5-Jul,117,100,15,40
+Japan,Expressway,7/6/11,6-Jul,118,100,15,40
+Japan,Expressway,7/7/11,7-Jul,119,100,15,40
+Japan,Expressway,7/8/11,8-Jul,120,100,15,40
+Japan,Expressway,7/9/11,9-Jul,121,100,15,40
+Japan,Expressway,7/10/11,10-Jul,122,100,15,40
+Japan,Expressway,7/11/11,11-Jul,123,100,15,40
+Japan,Expressway,7/12/11,12-Jul,124,100,15,40
+Japan,Expressway,7/13/11,13-Jul,125,100,15,40
+Japan,Expressway,7/14/11,14-Jul,126,100,15,40
+Japan,Expressway,7/15/11,15-Jul,127,100,15,40
+Japan,Expressway,7/16/11,16-Jul,128,100,15,40
+Japan,Expressway,7/17/11,17-Jul,129,100,15,40
+Japan,Expressway,7/18/11,18-Jul,130,100,15,40
+Japan,Expressway,7/19/11,19-Jul,131,100,15,40
+Japan,Expressway,7/20/11,20-Jul,132,100,15,40
+Japan,Expressway,7/21/11,21-Jul,133,100,15,40
+Japan,Expressway,7/22/11,22-Jul,134,100,15,40
+Japan,Expressway,7/23/11,23-Jul,135,100,15,40
+Japan,Expressway,7/24/11,24-Jul,136,100,15,40
+Japan,Expressway,7/25/11,25-Jul,137,100,15,40
+Japan,Expressway,7/26/11,26-Jul,138,100,15,40
+Japan,Expressway,7/27/11,27-Jul,139,100,15,40
+Japan,Expressway,7/28/11,28-Jul,140,100,15,40
+Japan,Expressway,7/29/11,29-Jul,141,100,15,40
+Japan,Expressway,7/30/11,30-Jul,142,100,15,40
+Japan,Expressway,7/31/11,31-Jul,143,100,15,40
+Japan,Expressway,8/1/11,1-Aug,144,100,15,40
+Japan,Expressway,8/2/11,2-Aug,145,100,15,40
+Japan,Expressway,8/3/11,3-Aug,146,100,15,40
+Japan,Expressway,8/4/11,4-Aug,147,100,15,40
+Japan,Expressway,8/5/11,5-Aug,148,100,15,40
+Japan,Expressway,8/6/11,6-Aug,149,100,15,40
+Japan,Expressway,8/7/11,7-Aug,150,100,15,40
+Japan,Expressway,8/8/11,8-Aug,151,100,15,40
